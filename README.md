@@ -82,5 +82,5 @@ Este desafio foi uma excelente oportunidade para solidificar conceitos fundament
 ---
 
 ## Link para o desafio
-* [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
+* [Desafio DIO: Modelagem e Diagramação de um Componente](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
