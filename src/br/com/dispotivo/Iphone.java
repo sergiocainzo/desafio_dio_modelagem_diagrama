@@ -19,8 +19,7 @@ public class Iphone {
     public Iphone() {
         this.musica = new Musica();
         this.telefone = new Telefone();
-        this.navegador = new Navegador();
-        
+        this.navegador = new Navegador();  
     }
 
     // Metodo Getter

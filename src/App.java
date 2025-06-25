@@ -8,6 +8,9 @@ public class App {
         // Ligando o aparelho
         dispositivo.ligarAparelho();
 
+        // Testando o Abrir Aplicativo do aparelho
+        dispositivo.abrirAplicativo("Reprodutor Musical");
+
         // Testando o Reprodutor Musical
         System.out.println("\n--- Testando Reprodutor Musical ---");
         dispositivo.getMusica().selecionar("Queens of the Stone Age = No one Knows"); // Musica Selecionada
