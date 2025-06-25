@@ -1,9 +1,9 @@
-import br.com.dispotivo.Dispositivo;
+import br.com.dispotivo.Iphone;
 
 public class App {
     public static void main(String[] args) throws Exception {
         // Atributo
-        Dispositivo dispositivo = new Dispositivo();
+        Iphone dispositivo = new Iphone();
 
         // Ligando o aparelho
         dispositivo.ligarAparelho();

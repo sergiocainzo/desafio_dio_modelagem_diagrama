@@ -7,7 +7,7 @@ import br.com.dispotivo.navegador.NavegadorInternet;
 import br.com.dispotivo.reprodutor.Musica;
 import br.com.dispotivo.reprodutor.ReprodutorMusical;
 
-public class Dispositivo {
+public class Iphone {
 
     // Atributos
     private ReprodutorMusical musica;
@@ -16,7 +16,7 @@ public class Dispositivo {
 
     // Construtor
     // O Construtor está inicializando já com as classes correspondentes de cada funcionalidade interna
-    public Dispositivo() {
+    public Iphone() {
         this.musica = new Musica();
         this.telefone = new Telefone();
         this.navegador = new Navegador();
